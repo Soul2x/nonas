@@ -1,6 +1,6 @@
 import os
 os.system("pip install Dick.py==1.2.3")
-import amino
+import aminofix as amino
 try:
     import colorama
 except ModuleNotFoundError:
